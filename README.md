@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **saketh@vt.edu**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1HDfqBC8327icTNnRf16gS33gScvwmuHXN-uvYVdwuLA/edit](https://docs.google.com/document/d/1HDfqBC8327icTNnRf16gS33gScvwmuHXN-uvYVdwuLA/edit)
+- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1HDfqBC8327icTNnRf16gS33gScvwmuHXN-uvYVdwuLA/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
