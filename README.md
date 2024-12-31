@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Go, pytorch**
 
-- 👨‍💻 All of my projects are available at [https://sakethrajesh.tech/](https://sakethrajesh.tech/)
+- 👨‍💻 All of my projects are available at [https://sakethrajesh.com/](https://sakethrajesh.com/)
 
 - 📫 How to reach me **saketh@vt.edu**
 
